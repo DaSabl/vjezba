@@ -1,3 +1,5 @@
+// Ubaceni brojac (komentar dodan radi vjezba)
+
 var brojac = 0;
 var brojacChecker = 0;
 var broj = 0;
