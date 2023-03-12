@@ -1,4 +1,4 @@
-// Ubaceni brojac (komentar dodan radi vjezba)
+// Komentar radi vježbe
 
 var brojac = 0;
 var brojacChecker = 0;
